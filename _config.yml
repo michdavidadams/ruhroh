@@ -1,0 +1,7 @@
+title: Ruh Roh
+description: I can doo all things through Scoob who strengthens me.
+logo: /assets/scooby-yum
+show_downloads: false
+page_excerpts: true
+plugins:
+  - jemoji
