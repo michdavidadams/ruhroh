@@ -10,7 +10,8 @@ logo: /assets/scoobydisapprove.png
 title: "Ruh Roh"
 name: "Re Rurch rof Ratter-ray Raints"
 url: https://ruhroh.org
-
+atom_feed:
+  hide: true
 # Defaults
 defaults:
     # _posts
