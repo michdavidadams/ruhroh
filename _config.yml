@@ -1,38 +1,5 @@
 title: Ruh Roh
 show_downloads: false
-page_excerpts: true
-theme: "minimal-mistakes-jekyll"
-minimal_mistakes_skin: "air"
-
-# Site Settings
 description: "I can doo all things through Scoob who strengthens me."
-logo: /assets/scoobydisapprove.png
 title: "Ruh Roh"
 name: "Re Rurch rof Ratter-ray Raints"
-url: https://ruhroh.org
-atom_feed:
-  hide: true
-# Defaults
-defaults:
-    # _posts
-    -   scope:
-            path: ""
-            type: posts
-        values:
-            layout: single
-            author_profile: true
-            show_date: true
-    # _pages:
-    -   scope:
-            path: "_pages"
-            type: _pages
-        values:
-            layout: single
-            author_profile: true
-
-# Reading Files
-include:
- - _pages
-
-plugins:
-  - jekyll-include-cache
