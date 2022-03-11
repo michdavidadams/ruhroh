@@ -1,3 +1,6 @@
 # Ruh Roh
 ![Scooby is displeased](/assets/scoobydisapprove.png)
-"Relma if you don't give me that whole rox of rooby racks I'm gonna make you the next rhost."
+
+> I got a call here for a Mister Doo?
+Uh, Melvin Doo?
+> Nah, Scooby.
